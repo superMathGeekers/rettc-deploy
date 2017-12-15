@@ -1,5 +1,5 @@
 {
-  "name": "deploy-cli",
+  "name": "rettc-deploy",
   "version": "0.0.1",
   "description": "",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:superMathGeekers/deploy-cli.git"
+    "url": "git@github.com:superMathGeekers/rettc-deploy.git"
   },
   "author": "xiezhongfu",
   "license": "ISC"

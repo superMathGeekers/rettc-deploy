@@ -157,6 +157,6 @@ async function deploy() {
     afterRmSourceState = await rmSource();
 }
 
-// deploy().then(() => {
-//     console.log(`\x1B[101m[${new Date().toLocaleString()}]\x1B[0m`, `\x1B[92m${projectName} 部署成功\x1B[0m`);
-// });
+deploy().then(() => {
+    console.log(`\x1B[101m[${new Date().toLocaleString()}]\x1B[0m`, `\x1B[92m${projectName} 部署成功\x1B[0m`);
+});

@@ -1,8 +1,8 @@
 {
-  "name": "deploy",
+  "name": "deploy-cli",
   "version": "0.0.1",
   "description": "",
-  "main": "deploy.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
